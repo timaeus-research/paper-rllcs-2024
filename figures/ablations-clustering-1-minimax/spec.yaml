@@ -1,0 +1,14 @@
+metrics:
+- ablations/resampling_normalized
+labels:
+- rLLC $\hat\lambda_{l:h,\text{Pile}}$
+methods:
+- euclidean_kmeans
+- dtw_kmeans
+- hierarchical_clustering
+- shape_based_kmeans
+title: null
+use_pca: false
+logx: true
+layer: 1
+normalize: minmax

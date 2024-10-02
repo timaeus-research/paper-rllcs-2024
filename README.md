@@ -4,20 +4,13 @@ This repository contains extra data for the paper "Differentiating and Specializ
 
 ## Abstract
 
-We introduce refined variants of the Local Learning Coefficient (LLC), a measure of model complexity and degeneracy in the loss landscape geometry, to study the development of individual components in transformer language models during training. By applying these Refined Local Learning Coefficients (rLLCs) to a two-layer attention-only transformer trained on a subset of the Pile, we gain novel insights into the progressive differentiation and specialization of attention heads. Our methodology reveals the emergence of different types of attention heads, data-specific specialization, and a universal pattern of increasing then decreasing rLLCs potentially linked to functional disentanglement. These findings highlight rLLCs as a principled tool for understanding neural network development, grounded in singular learning theory.
+> We introduce refined variants of the Local Learning Coefficient (LLC), a measure of model complexity grounded in singular learning theory, to study the development of internal structure in transformer language models during training. By applying these \textit{refined LLCs} (rLLCs) to individual components of a two-layer attention-only transformer, we gain novel insights into the progressive differentiation and specialization of attention heads. Our methodology reveals how attention heads differentiate into distinct functional roles over the course of training, analyzes the types of data these heads specialize to process, and discovers a previously unidentified multigram circuit. These findings demonstrate that rLLCs provide a principled, quantitative toolkit for \textit{developmental interpretability}, which aims to understand models through their evolution across the learning process. More broadly, this work takes a step towards establishing the correspondence between data distributional structure, geometric properties of the loss landscape, learning dynamics, and emergent computational structures in neural networks.
 
 ## Repository Structure
 
-- `figures/`: Extra figures not included in the paper
+- `figures/`: Figures from the paper + some extras that didn't make the cut.
+- `per-token-data/`: Raw data of tokens in context generated using the procedure detailed in Appendix B.
+- `per-token-samples/`: HTML presentation of tokens in context.
+- `per-token-analysis/`: Results of analyzing these samples in terms of induction patterns, Dyck patterns, skip n-grams, and n-grams.
 
-## Data
 
-We use a subset of the Pile dataset for training and evaluation. The data preprocessing steps are described in detail in the `data/README.md` file.
-
-## Results
-
-Key results and figures can be reproduced using the notebooks in the `notebooks/` directory. Precomputed results are available in the `results/` directory.
-
-## Citation
-
-If you use this code or data in your research, please cite our paper:

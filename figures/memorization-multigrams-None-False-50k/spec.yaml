@@ -1,0 +1,12 @@
+metric: wr-pile1m/llc
+label: Final wrLLC $\hat\lambda_{l:h}(t=50k)$
+title: null
+regression: multigram
+figsize:
+- 8
+- 3
+layer: null
+count_metric: multigrams
+rescale: false
+step: 50000
+step_pretty: 50k

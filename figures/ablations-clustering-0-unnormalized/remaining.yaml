@@ -1,0 +1,22 @@
+n_ctx: 1024
+act_fn: gelu
+d_head: 32
+d_model: 256
+d_vocab: 5000
+n_heads: 8
+n_layers: 2
+attn_only: true
+attn_types: null
+model_name: default
+model_seed: 1
+temperature:
+- 30
+- 30
+window_size: null
+checkpoint_ivl: 1
+implementation: transformer_lens
+tokenizer_name: georgeyw/TinyStories-tokenizer-5k
+use_local_attn: false
+positional_embedding_type: shortformer
+timestamp: '2024-10-01T22:49:57.853971'
+figure_name: ablations-clustering-0-unnormalized

@@ -1,0 +1,379 @@
+n_ctx: 1024
+act_fn: gelu
+d_head: 32
+d_model: 256
+d_vocab: 5000
+n_heads: 8
+examples:
+  pile13m:
+  - "Alsatian Cheese Tart\n\nFrench Chef Michel Bernard Platz, co-owner with Jose\
+    \ Sanabria of Out of Flower cooking school and specialty catering in Dallas, recommends\
+    \ traditional Alsatian fare. In Alsae, the Yuletide dinner starts with an onion\
+    \ and leek tart, followed by a hearty one-dish creation called Baeckaoffa served\
+    \ with walnut bread. For dessert, try an Alsatian Cheese Tart.\n\nADVERTISEMENT\n\
+    \nADVERTISEMENT\n\nADVERTISEMENT\n\nABOUT TEXAS HIGHWAYS\n\nPublished monthly\
+    \ by the Texas Department of Transportation, Texas Highways, the official travel\
+    \ magazine of Texas, encourages travel to and within the Lone Star State and tells\
+    \ the Texas story to readers around the world.search for them.\"\n\nViktor Troshenkov\
+    \ of the Russian Academy of Sciences told the Tass news agency that the fireball\
+    \ could be part of a prolific meteor shower known as the Leonids, which peaks\
+    \ at this time of year. He said he felt Thursday's fireball likely wasn't the\
+    \ sole meteorite but others maybe were not seen due to thick clouds elsewhere.\n\
+    \nTroshenkov told Tass that meteor showers can be even stronger. The Leonids reach\
+    \ their maximum once every 33 years -- and the last time that happened was in\
+    \ 1998, he said. Amateur astronomers in the Arctic then saw about 1,000 meteors,\
+    \ 40 meteorites and one fireball in just one night.\n\nIn 2013, a meteorite streaked\
+    \ across the Russian sky and exploded over the Ural Mountains with the power of\
+    \ an atomicdepicted by four young winged men in Roman-like dresses, driving vessels\
+    \ and blowing air into horns. The central upper square is an old man representing\
+    \ the Year, with the Wheel of Time, while at the upper corners are the personifications\
+    \ of the Rivers of Paradise. The other six upper squares depict the Four Seasons,\
+    \ as well as Samson and Abel (or Cain).\n\nThe two lower corners show the personifications\
+    \ of the Sun (left, symbolizing Sunday) and the Moon (right, much deteriorated,\
+    \ symbolizing Monday), while the  side outer squares represent the months (only\
+    \ eight of which survive). At the bottom are incomplete scenes of the discovery\
+    \ of Holy Cross.\n\nSources\n\nExternal links\n\nOfficial cathedral's website\
+    \ \nPage with details of the figures \nPage with links to websites and the newest\
+    \ literature  (2012)Publication Date:\n\nDiscipline:\n\nSource:\n\nProduct number:\n\
+    \nLength:\n\nAlso Available in:\n\ndescription\n\nIn October 2004 Fernández Pujals,\
+    \ founder of Telepizza, an international home delivery pizza business, bought\
+    \ 24.9% of Jazztel (€90 million), a telecom company. At the time, Jazztel that\
+    \ was near bankruptcy and needed a capital injection to finish the year. Over\
+    \ the next ten years, Fernández Pujals led the restructuring of Jazztel's debt,\
+    \ reached an agreement with the former monopoly Telefónica, set up internal call\
+    \ centers, and transformed Jazztel into"
+  - ' the fastest growing broadband operator in Spain. The case describes how Fernández
+    Pujals designed and managed the board and led Jazztel towards profitable growth.
+
+
+    learning objective:
+
+
+    The case provides an example of board dynamics and corporate governance of a Spanish
+    telecom company with a controlling shareholder serving as Chairman of the Board
+    of Directors.
+
+
+    Publication Date:
+
+
+    Discipline:
+
+
+    Source:
+
+
+    Product number:
+
+
+    Length:
+
+
+    AlsoAvailable in:
+
+
+    description
+
+
+    On Tuesday March 15, 2011, all 1,200 global Partners of McKinsey & Co. gathered
+    at the Gaylord National Hotel & Convention Center near Washington, DC for their
+    annual Partners'' conference. The atmosphere was tense as Partners, in addition
+    to their normal agenda, discussed the Galleon Group insider-trading trial and
+    the recent allegations against the Firm''s former Managing Director, Rajat Gupta.
+    Three months earlier Senior Partner, Anil Kumar, pled guilty to providing confidential
+    information about McKinsey clients he served to Galleon Group founder Raj Rajaratnam.
+    The McKinsey Partners were shocked and dismayed by the actions of Kumar, as well
+    as the recent allegations against Gupta and were closely monitoring the situation.
+    Could a former Managing Director of their Firm have conspired to enable insider
+    trading? And if so,what did that mean for the future of the Firm?
+
+
+    Publication Date:
+
+
+    Discipline:
+
+
+    Source:
+
+
+    Product number:
+
+
+    Length:
+
+
+    Also Available in:
+
+
+    description
+
+
+    On Tuesday March 15, 2011, all 1,200 global Partners of McKinsey & Co. gathered
+    at the Gaylord National Hotel & Convention Center near Washington, DC for their
+    annual Partners'' conference. The atmosphere was tense as Partners, in addition
+    to their normal agenda, discussed the Galleon Group insider-trading trial and
+    the recent allegations against the Firm''s former Managing Director, Rajat Gupta.
+    Three months earlier Senior Partner, Anil Kumar, plead guilty to providing confidential
+    information about McKinsey clients he served to Galleon Group founder Raj Rajaratnam.
+    The McKinsey Partners were shocked and dismayed by the actions of Kumar, as well
+    as the recent allegations against Gupta and were closely monitoring the situation.
+    Could a former Managing DirectorDate:
+
+
+    Discipline:
+
+
+    Source:
+
+
+    Product number:
+
+
+    Length:
+
+
+    Also Available in:
+
+
+    description
+
+
+    In December 1997 United Rentals (URI) went public on the NYSE. Ten years later,
+    during the peak of the economic meltdown, the company''s performance was in decline.
+    United Rentals had experienced its share of problems in the prior years and was
+    still struggling to emerge from this turmoil.
+
+
+    In the spring of 2008, the recession had decimated the company''s core business,
+    construction equipment rental. The economic downturn resulted in a significant
+    decrease in North American construction and industrial activities and had adversely
+    affected the company''s revenues and operating result. The stock of the company
+    quickly fell from the mid-$30 range in late 2007 to $3 in March 2009. In addition,'
+  - ' two of the company''s former chief financial officers had been charged with
+    securities fraud and otherviolations, by both the U.S. Attorney''s office and
+    the SEC. The Board was faced with the resignation of the founder and chairman,
+    management succession issues, the failed merger with Cerberus, and the lawsuit
+    in Delaware. The Board was responsible for overseeing the change in a number of
+    senior management and board positions which became increasingly difficult due
+    to the turmoil and poor performance of the company. Recruiting and retaining talent
+    in senior management and the board was central to the success of the company,
+    which relied on their people for strong performance. In addition the company''s
+    total indebtedness was approximately $3.3 billion, including $146 million of subordinated
+    convertible debenture. The company''s substantial indebtedness had the potential
+    to have adverse consequences in a number of ways, including: increase theirother
+    meetings she had chaired. Stockholders were about to vote on a transaction that
+    was perhaps the ultimate fulfillment of the founders'' original vision. She was
+    reminded of the company''s founding just 15 years earlier and its meteoric growth.
+    With a considerable sense of achievement and satisfaction, she reflected on her
+    tenure as board chair commencing five years ago. Elected to the board in 2006
+    and then unanimously selected by her peers as Chairman in June 2008, Britell led
+    the board through the aftermath of a tumultuous period that included senior management
+    and board changes, a SEC investigation, financial restatements, the jilting of
+    the company by Cerberus Capital Management in a transaction to acquire URI, and
+    the deepest recession to hit the global economy since the Great Depression.At
+    the meeting, stockholders would be asked to consider approval of a merger agreement
+    between URI, the largest equipment rental company in the world, with RSC, the
+    second largest equipment rental company in the world and URI''s largest competitor.
+    The meeting would mark the triumph of a new governance model and company strategy
+    whose development and implementation Britell and CEO Michael Kneeland had led.
+    As Britell reflected on the hard won gains, she also looked forward to the challenges
+    and opportunities that lay ahead as the company managed the integration of RSC''s
+    operations with URI and the integration of three new board members from the acquired
+    company. She also reflected on how governance and strategy could continue to evolve
+    as the company planned for the next five years.
+
+
+    learningyour health, hence the term passive tolerance.
+
+
+    This is the finding of seven studies carried out over 10 years in the United States,
+    Europe and South Africa, led by a team of social psychologists at the University
+    of Oxford and published in the journal of the United States National Academy of
+    Sciences. They were careful to rule out the most obvious explanation for their
+    finding, social psychologists Miles Hewstone and Katharina Schmid explain – namely,
+    that the higher levels of tolerance in more diverse neighbourhoods are a result
+    of more tolerant people choosing to live there. Two of the studies were conducted
+    over several years and tracked the same individuals, showing how attitudes changed.
+    Even prejudiced people showed a greater degree of tolerance over time if they
+    lived inpeople in a modern welfare state". The left faces a nasty conund'
+  - 'rum as two of its most sacred shibboleths come into conflict: ethnic diversity
+    and the solidarity necessary for a strong welfare state.
+
+
+    This new research throws these conclusions into question. Putnam''s work may,
+    after all, have been misleading. In fact, rather than hunkering down, living in
+    a mixed neighbourhood helps you open up. In some ways this vindicates many people''s
+    anecdotal experience of their own enjoyment of diversity in their neighbourhoods,
+    and the sense that the most pronounced fear and prejudice is found in exclusively
+    white areas.
+
+
+    The research also vindicates the case for local initiatives to foster social exchange
+    and build community relationships. From carnivals to coffee mornings, jumble sales
+    to fun days in the park – allthese are opportunities to generate passive tolerance.
+    Sadly, however, many of these initiatives have fallen victim to local authority
+    funding cuts. The impact of austerity has been compounded by a loss of confidence
+    – in which Putnam''s research played its part – about fostering strong diverse
+    communities. Multiculturalism has fallen from favour, misunderstood and maligned
+    as the set of ideas that guided community relations for a generation.
+
+
+    No one was more acutely aware of this danger than Putnam himself when he talked
+    to me on the publication of his research in 2007, the timing made the danger all
+    the more acute in the aftermath of 7/7 bombings. Since then the theme of integration
+    has come to dominate – with its coercive and conformist overtones. The result
+    has been ahad to fight Ahenobarbus like 4 times because he kept letting him
+
+    go.
+
+
+    With that, Caesar turned into an absolute master by making reasonable
+
+    calculated risks and surviving them. By the point he was clearing the last of
+
+    the Pompeans in Africa at the end of the Civil War, he didn''t even leave his
+
+    tent to give commands -- so confident and expertised in warfare that he didn''t
+
+    even have to see the field of battle.
+
+
+    This is a bit of a ramble. I really admire Julius Caesar and think there''s so
+
+    much to learn by studying his life and habits.
+
+
+    ~~~
+
+    unFou
+
+    "By the point he was clearing the last of the Pompeans in Africa at the end of
+
+    the Civil War, he didn''t even leave his tent to give commands"
+
+
+    Was this an indication of the experience and initiativeIn particular, his most
+    capable commander during
+
+    the Gallic Wars, Labienus, defected to the Pompey early in the Civil War, and
+
+    was one of Caesar''s chief opponents during his African campaign.
+
+
+    As an interesting note, it seems Labienus likely defected from Caesar for two
+
+    reasons:
+
+
+    1\. At the beginning of the Civil War it looked extremely unlikely Caesar
+
+    would win.
+
+
+    2\. Labienus felt as though Caesar took more credit than he ought to have in
+
+    the Gallic Wars, depriving him of his "auctoritas" (sort of prestige) he felt
+
+    he rightfully deserved.
+
+
+    Caesar''s skilled defeat of Pompey and Labienus show his military skill outside
+
+    of his use of good commanders.
+
+
+    ~~~
+
+    fapjacks
+
+    I hope you'
+  - ' see this after all this time. Do you have a trailhead to lend me so
+
+    I can read about this instance of not having to leave his tent tomore "biased"
+    than histories of
+
+    WWII.
+
+
+    There is a 500 year difference bt Herodotus and Tacitus. Even so, Herodotus
+
+    did no more than accurately record what he was told, assiduously pointing out
+
+    when he saw something first hand. Early ancient historians made up speeches,
+
+    that much is known. But by Tacitus''s day, the act of writing an objective
+
+    history was not a novelty, and in fact he complains in the beginning of his
+
+    text that he is undertaking the work because he thinks his peers, also
+
+    ostensibly engaged in objective history, have not been objective enough out of
+
+    fear or hatred when covering the reigns of Tiberius, Caligula, Claudius, and
+
+    Nero. Once again, with no reason to doubt him, I ask: why not even consider
+
+    taking one of the greatest historians whose works have been preserved for
+
+    posterity at faceoffice more unusual. During his time leading Russia, Putin has
+    dealt with four separate U.S. presidents as well as four British prime ministers
+    and two German chancellors.
+
+
+    The Kremlin may also dispute the methodology, as Putin wasn''t president for all
+    of his time in office. He first became prime minister of Russia on Aug. 16, 1999,
+    before entering the presidential office May 7 the next year. Later, as the Russian
+    Constitution limits the president to two consecutive terms, Putin stepped out
+    of the Kremlin in 2008 while his prime minister, Dmitry Medvedev, became president.
+
+
+    However, most analysts agree that Putin still held the real power during that
+    "tandem" presidency. He returned to the presidency in 2012.
+
+
+    Putin''s increasingly lengthy time in office may not appear to be a problem to
+    manyRussians - as widely noted, his approval ratings remain extraordinarily high.
+    He is widely expected to stand to be nominated as a presidential candidate again
+    for next year''s elections, according to reports in the Russian media.
+
+
+    But there are some signs of a malaise setting in; some Russians have begun to
+    share cynical jokes about Putin that resemble those told during the Brezhnev era.
+    Turnout in recent local elections was low, and some polls suggest that a significant
+    minority of the country is not sure whether they want Putin to run for reelection.
+
+
+    Still, Putin is likely to win next year''s election if he runs - potentially putting
+    him in office until 2024 (after Medvedev left office, presidential terms were
+    increased from four to six years). He could choose toHundreds of soul music enthusiasts
+    from the United Kingdom plan to make their way to Detroit this month for a series
+    of concerts.
+
+
+    Detroit A-Go-Go, a festival organized by DJ Phil Dick, will take place Oct. 19-22
+    with 26 scheduled acts.
+
+
+    The festival is focused on what Dick calls the northern soul movement.
+
+
+    "We just love Detroit soul and Motown music," Dick said. "It''s been popular in
+    England for decades. Every weekend, thousands of people go out and listen to this
+    music in England."
+
+
+    Artists booked for the festival include: The Elgins, Pat Lewis, Melvin Dav'
+n_layers: 2
+attn_only: true
+attn_types: null
+model_name: custom
+model_seed: 1
+window_size: null
+checkpoint_ivl: 1
+implementation: transformer_lens
+tokenizer_name: georgeyw/TinyStories-tokenizer-5k
+use_local_attn: false
+positional_embedding_type: shortformer
+timestamp: '2024-10-01T22:47:40.347825'
+figure_name: baselines

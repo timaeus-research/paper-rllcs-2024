@@ -1,0 +1,19 @@
+metrics:
+- wr-pile1m/llc
+- baseline-wr-pile1m/llc
+labels:
+- $D=\text{Pile}$
+- $\ell = \text{L1}$
+highlight:
+- - 0
+  - 2
+  - 3
+  - 6
+  - 7
+- - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+title: null

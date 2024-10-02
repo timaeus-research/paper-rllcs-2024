@@ -1,0 +1,204 @@
+lr: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  /Knx0k1iUD8=
+mask: null
+steps:
+- 0
+- 100
+- 200
+- 400
+- 600
+- 800
+- 1000
+- 1200
+- 1400
+- 1600
+- 1800
+- 2000
+- 2200
+- 2400
+- 2600
+- 2800
+- 3000
+- 3200
+- 3400
+- 3600
+- 3800
+- 4000
+- 4200
+- 4400
+- 4600
+- 4800
+- 5000
+- 5200
+- 5400
+- 5600
+- 5800
+- 6000
+- 6200
+- 6400
+- 6600
+- 6800
+- 7000
+- 7200
+- 7400
+- 7600
+- 7800
+- 8000
+- 8200
+- 8400
+- 8600
+- 8800
+- 9000
+- 9200
+- 9400
+- 9600
+- 9800
+- 10000
+- 10400
+- 10800
+- 11200
+- 11600
+- 12000
+- 12400
+- 12800
+- 13200
+- 13600
+- 14000
+- 14400
+- 14800
+- 15200
+- 15600
+- 16000
+- 16400
+- 16800
+- 17200
+- 17600
+- 18000
+- 18400
+- 18800
+- 19200
+- 19600
+- 20000
+- 21000
+- 22000
+- 23000
+- 24000
+- 25000
+- 26000
+- 27000
+- 28000
+- 29000
+- 30000
+- 31000
+- 32000
+- 33000
+- 34000
+- 35000
+- 36000
+- 37000
+- 38000
+- 39000
+- 40000
+- 41000
+- 42000
+- 43000
+- 44000
+- 45000
+- 46000
+- 47000
+- 48000
+- 49000
+- 50000
+kl_div: true
+online: true
+get_min: false
+gw_args:
+  last: 0.5
+  first: 0.1
+hw_args:
+  eps: 0.1
+  alpha: 0.05
+rl_args:
+  q: 0.025
+  r: 0.01
+  s: 0.95
+  precision: 0.01
+baseline: null
+eval_mask: null
+grad_mask: null
+init_seed: 100
+num_draws: 200
+per_chain: false
+per_token: false
+use_wandb: true
+batch_size: 32
+init_noise: null
+nbeta_sgld: 30
+num_chains: 4
+diagnostics:
+- mala
+- contributions
+- convergence
+noise_level: 1
+gradient_alt: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  uB6F61G4jj8=
+localization: 200
+nbeta_estimate: 30
+scheduler_type: constant
+sampling_method: sgld
+grad_accum_steps: 1
+llc_weight_decay: 0
+localization_alt: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  mpmZmZmZuT8=
+num_burnin_steps: 0
+scheduler_kwargs: null
+bounding_box_size: null
+num_radial_traces: null
+num_steps_bw_draws: 1
+num_steps_per_trace: null
+num_init_loss_batches: 16

@@ -1,0 +1,29 @@
+layer: 0
+head_type: multigram
+metric: wr-pile1m/llc
+label: wrLLC $\hat\lambda_{l:h}$
+title: null
+shift:
+- - -25
+  - -5
+- - 10
+  - 0
+- - 10
+  - 0
+- - 10
+  - 0
+- - 10
+  - 0
+- - 10
+  - 0
+- - -25
+  - -5
+- - 10
+  - 0
+figsize:
+- 3
+- 2
+count_metric: ngrams
+rescale: false
+step: 50000
+step_pretty: 50k

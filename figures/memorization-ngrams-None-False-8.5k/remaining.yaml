@@ -1,0 +1,57 @@
+n_ctx: 1024
+act_fn: gelu
+d_head: 32
+d_model: 256
+d_vocab: 5000
+n_heads: 8
+n_layers: 2
+attn_only: true
+attn_types: null
+model_name: default
+model_seed: 1
+window_size: null
+checkpoint_ivl: 1
+implementation: transformer_lens
+tokenizer_name: georgeyw/TinyStories-tokenizer-5k
+use_local_attn: false
+positional_embedding_type: shortformer
+? !!python/tuple
+- wr-pile1m/convergence/heidelberg_welch/adj_burnin_frac
+: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAA8D8=
+? !!python/tuple
+- wr-github-all/convergence/heidelberg_welch/adj_burnin_frac
+: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAA8D8=
+timestamp: '2024-10-01T22:47:04.963442'
+figure_name: memorization-ngrams-None-False-8.5k
