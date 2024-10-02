@@ -13,4 +13,4 @@ This repository contains extra data for the paper "Differentiating and Specializ
 - `per-token-samples/`: HTML presentation of tokens in context.
 - `per-token-analysis/`: Results of analyzing these samples in terms of induction patterns, Dyck patterns, skip n-grams, and n-grams.
 
-
+> **Trigger Warning**: The tokens in context are sampled from the Pile dataset, which contains a wide range of text from the internet. A large number of samples contain offensive and inappropriate language or content. The internet is a wild place.
